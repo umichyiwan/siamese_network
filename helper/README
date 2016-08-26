@@ -1,0 +1,3 @@
+python txt2json.py
+python exclude_occlusion_bounding_boxes.py
+python generate_training_data.py
